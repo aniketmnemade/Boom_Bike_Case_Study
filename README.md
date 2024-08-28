@@ -17,6 +17,7 @@ Essentially, the company wants —
 
 
 -Which variables are significant in predicting the demand for shared bikes.
+
 -How well those variables describe the bike demands
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
