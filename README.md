@@ -23,21 +23,21 @@ Essentially, the company wants —
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+•	Felling temperature is affecting the number of renting bikes as it is higher at good temperature.
+•	During weather is Mist or Light Snow  number of bike rented is reduced.
+•	But for mist weather on holidays people are renting more compaired to working days.
+•	Bikes are demanded well during the whole week.
+•	Compared to 2018 demand has increased in 2019 an could be near by 24% growth/annum. 
+•	During Spring demand is very low compared to another season
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Technologies Used
 - Matplotlib - version 3.8.0
 - Numpy - version 1.26.4
 - Pandas - version 2.1.4
 - Seaborn - version 0.13.2
-- Sklearn - 
-- statsmodels.api - 
-
+- Sklearn - version 1.2.2
+- statsmodels.api - version 0.14.0
 ## Acknowledgements
 Give credit here.
 - This project was based on [upGrad].
