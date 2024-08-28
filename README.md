@@ -24,10 +24,15 @@ Essentially, the company wants —
 
 ## Conclusions
 •	Felling temperature is affecting the number of renting bikes as it is higher at good temperature.
+
 •	During weather is Mist or Light Snow  number of bike rented is reduced.
+
 •	But for mist weather on holidays people are renting more compaired to working days.
+
 •	Bikes are demanded well during the whole week.
+
 •	Compared to 2018 demand has increased in 2019 an could be near by 24% growth/annum. 
+
 •	During Spring demand is very low compared to another season
 
 
