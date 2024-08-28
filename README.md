@@ -1,5 +1,5 @@
 # Project Name
-> Outline a brief description of your project.
+> BoomBikes  Case Study
 
 
 ## Table of Contents
@@ -11,10 +11,13 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+To understand the factors on which the demand for these shared bikes depends. Specifically, they want to understand the factors affecting the demand for these shared bikes in the American market. 
+
+Essentially, the company wants —
+
+
+-Which variables are significant in predicting the demand for shared bikes.
+-How well those variables describe the bike demands
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
